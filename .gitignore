@@ -1,0 +1,14 @@
+# Visual Studio Code file
+.vscode
+
+# macOS file
+.DS_Store
+
+# Compiled class folder
+bin/
+
+# Package file
+*.jar
+
+# Database file
+*.csv
